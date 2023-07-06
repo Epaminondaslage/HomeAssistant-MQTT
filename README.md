@@ -123,39 +123,38 @@
 	<li class="unchanged"><span><span><span>Clique no &iacute;cone de Configura&ccedil;&otilde;es (engrenagem) no canto inferior esquerdo.</span></span></span></li>
 </ol>
 
-<p class="unchanged rich-diff-level-one" dir="auto"><img alt="" src="/img/Picture09.png" style="width: 600px; height: 400px;" /></p>
+<p class="unchanged rich-diff-level-one" dir="auto"><img alt="" height="382" src="img/Picture9.png" width="573" /></p>
 
 <ol class="unchanged rich-diff-level-one" dir="auto" start="3">
 	<li class="unchanged"><span><span><span>Na p&aacute;gina do Supervisor, clique em &quot;Add-on Store&quot; (Loja de Add-ons), localizado no canto direito inferior.</span></span></span></li>
 	<li class="unchanged"><span><span><span>Na loja de add-ons, procure por &quot;</span><span>MQTT</span><span>&quot; na barra de pesquisa.</span></span></span></li>
 </ol>
 
-<p class="unchanged rich-diff-level-one" dir="auto">&nbsp;</p>
+<p class="unchanged rich-diff-level-one" dir="auto"><img alt="" src="img/Picture10.png" style="width: 600px; height: 400px;" /></p>
 
 <ol class="unchanged rich-diff-level-one" dir="auto" start="5">
 	<li class="unchanged"><span><span><span>O add-on &quot;Mosquitto broker&quot; deve aparecer nos resultados da pesquisa. Clique nele para obter mais informa&ccedil;&otilde;es.</span></span></span></li>
-	<li class="unchanged"><span><span><span>Na p&aacute;gina do add-on Mosquitto broker, clique no bot&atilde;o &quot;Instalar&quot; para iniciar o processo de instala&ccedil;&atilde;o.</span></span></span></li>
+	<li class="unchanged"><span><span><span>Na p&aacute;gina do add-on Mosquitto broker, clique no bot&atilde;o <strong>Instalar</strong> para iniciar o processo de instala&ccedil;&atilde;o.</span></span></span></li>
 </ol>
 
-<p class="unchanged rich-diff-level-one" dir="auto">&nbsp;</p>
+<p class="unchanged rich-diff-level-one" dir="auto"><img alt="" src="img/Picture11.png" style="width: 600px; height: 400px;" /></p>
 
 <ol class="unchanged rich-diff-level-one" dir="auto" start="7">
-	<li class="unchanged"><span><span><span>Aguarde at&eacute; que a instala&ccedil;&atilde;o seja conclu&iacute;da. Isso pode levar alguns minutos.</span><span> Tive as op&ccedil;&otilde;es abaixo.</span></span></span></li>
+	<li class="unchanged"><span><span><span>Aguarde at&eacute; que a instala&ccedil;&atilde;o seja conclu&iacute;da. Isso pode levar alguns minutos.</span><span> Ative as op&ccedil;&otilde;es abaixo.</span></span></span></li>
 </ol>
 
-<p class="unchanged rich-diff-level-one" dir="auto">&nbsp;</p>
+<p class="unchanged rich-diff-level-one" dir="auto"><img alt="" src="img/Picture12.png" style="width: 600px; height: 400px;" /></p>
 
 <ol class="unchanged rich-diff-level-one" dir="auto" start="8">
-	<li class="unchanged"><span><span><span>Ap&oacute;s a instala&ccedil;&atilde;o, volte para a p&aacute;gina do Supervisor e clique em &quot;Configura&ccedil;&otilde;es&quot; novamente.</span></span></span></li>
+	<li class="unchanged"><span><span><span>Ap&oacute;s a instala&ccedil;&atilde;o, volte para a p&aacute;gina do Supervisor e clique em &quot;Configura&ccedil;&otilde;es&quot; novamente para verificar se completou a instala&ccedil;&atilde;o.</span></span></span></li>
 </ol>
 
-<p class="unchanged rich-diff-level-one" dir="auto">&nbsp;</p>
+<p class="unchanged rich-diff-level-one" dir="auto"><img alt="" src="img/Picture13.png" style="width: 600px; height: 400px;" /></p>
 
 <ol class="unchanged rich-diff-level-one" dir="auto" start="9">
-	<li class="unchanged"><span><span><span>No menu lateral, clique em &quot;Add-ons&quot;.</span></span></span></li>
-	<li class="unchanged"><span><span><span>Voc&ecirc; deve ver o add-on do Mosquitto MQTT broker listado l&aacute;. Clique nele para acessar as op&ccedil;&otilde;es de configura&ccedil;&atilde;o.</span></span></span></li>
-	<li class="unchanged"><span><span><span>Configure as op&ccedil;&otilde;es conforme suas necessidades, como nome de usu&aacute;rio, senha, porta MQTT, etc.</span></span></span></li>
-	<li class="unchanged"><span><span><span>Salve as configura&ccedil;&otilde;es e inicie o add-on.</span></span></span></li>
+	<li class="unchanged" dir="ltr"><span><span><span>Voc&ecirc; deve ver o add-on do Mosquitto MQTT broker listado l&aacute;. Clique nele para acessar as op&ccedil;&otilde;es de configura&ccedil;&atilde;o.</span></span></span></li>
+	<li class="unchanged" dir="ltr"><span><span><span>Confira as op&ccedil;&otilde;es conforme suas necessidades, como nome de usu&aacute;rio, senha, porta MQTT, etc.</span></span></span></li>
+	<li class="unchanged" dir="ltr"><span><span><span>Salve as configura&ccedil;&otilde;es e inicie o add-on.</span></span></span></li>
 </ol>
 
 <p class="unchanged rich-diff-level-one" dir="auto"><span><span><span>Uma vez que o add-on do Mosquitto MQTT broker esteja instalado e em execu&ccedil;&atilde;o, voc&ecirc; poder&aacute; utilizar dispositivos que se conectem via MQTT, como dispositivos com firmware Tasmota, para se comunicarem com o broker. Certifique-se de configurar corretamente os dispositivos para se conectarem ao broker Mosquitto usando o endere&ccedil;o IP ou o nome de host do seu Home Assistant.</span></span></span></p>
