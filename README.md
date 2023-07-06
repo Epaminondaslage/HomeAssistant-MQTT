@@ -175,7 +175,7 @@
 
 <p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif">Uma vez que o add-on do Mosquitto MQTT broker esteja instalado e em execu&ccedil;&atilde;o, voc&ecirc; poder&aacute; utilizar dispositivos que se conectem via MQTT, como dispositivos com firmware Tasmota, para se comunicarem com o broker. Certifique-se de configurar corretamente os dispositivos para se conectarem ao broker Mosquitto usando o endere&ccedil;o IP ou o nome de host do seu Home Assistant.</span></span></span></p>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Bibliografia:</span></span></span></span></p>
+<p><strong><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Bibliografia</span></span></span></span></strong></p>
 
 <ul>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif">Wikipedia:</span></span></span>
