@@ -123,7 +123,7 @@
 	<li class="unchanged"><span><span><span>Clique no &iacute;cone de Configura&ccedil;&otilde;es (engrenagem) no canto inferior esquerdo.</span></span></span></li>
 </ol>
 
-<p class="unchanged rich-diff-level-one" dir="auto">&nbsp;</p>
+<p class="unchanged rich-diff-level-one" dir="auto"><img alt="" src="/img/Picture09.png" style="width: 600px; height: 400px;" /></p>
 
 <ol class="unchanged rich-diff-level-one" dir="auto" start="3">
 	<li class="unchanged"><span><span><span>Na p&aacute;gina do Supervisor, clique em &quot;Add-on Store&quot; (Loja de Add-ons), localizado no canto direito inferior.</span></span></span></li>
