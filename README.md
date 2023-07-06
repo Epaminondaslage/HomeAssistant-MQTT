@@ -38,7 +38,7 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 3: HTTP Model</span></span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 2: HTTP Model</span></span></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Aplica&ccedil;&otilde;es do MQTT</span></span></strong></span></span></p>
 
@@ -52,15 +52,15 @@
 
 <p style="text-align:justify"><img alt="" src="/img/Picture5.png" style="height:402px; width:858px" /></p>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 4: Conex&otilde;es ponto a ponto x R</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">edes com </span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">B</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">roker</span></span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 3: Conex&otilde;es ponto a ponto x R</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">edes com </span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">B</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">roker</span></span></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">A natureza desacoplada da troca de dados no MQTT &eacute; outro aspecto importante, pois elimina a necessidade de conex&otilde;es ponto a ponto ou endere&ccedil;amento direto. Isso possibilita que as redes MQTT cres&ccedil;am e compartilhem dados de forma flex&iacute;vel, sem afetar o tr&aacute;fego de rede entre os publicadores e o broker. Al&eacute;m disso, os assinantes n&atilde;o precisam ser reconfigurados em caso de altera&ccedil;&otilde;es no tipo de dispositivo de campo ou endere&ccedil;o IP.</span></span></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Em termos t&eacute;cnicos, o MQTT utiliza uma carga &uacute;til simples em formato de matriz de bytes, acompanhada por um cabe&ccedil;alho fixo de 2 bytes e campos de cabe&ccedil;alho de comprimento vari&aacute;vel. Essa abordagem simplificada permite uma transmiss&atilde;o eficiente de dados pela rede, minimizando o consumo de recursos.</span></span></span></span></p>
 
-<p><img alt="" src="/img/Picture5.png" style="height:100px; width:200px" /></p>
+<p><img alt="" src="/img/Picture6.png" style="height:150px; width:400px" /></p>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 5: MQTT Standard Packet</span></span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 4: MQTT Standard Packet</span></span></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Em resumo, o MQTT &eacute; um protocolo eficiente e confi&aacute;vel para a comunica&ccedil;&atilde;o em projetos de IoT e M2M. Sua simplicidade, baixo consumo de recursos e suporte ao modelo Publish/Subscribe o tornam uma escolha popular na troca de dados entre dispositivos, impulsionando a evolu&ccedil;&atilde;o da Ind&uacute;stria 4.0 (IIoT) e da dom&oacute;tica (IoT) e viabilizando a transforma&ccedil;&atilde;o digital em diversos setores industriais.</span></span></span></span></p>
 
@@ -68,9 +68,9 @@
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">No</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black"> Protocolo MQTT, a publica&ccedil;&atilde;o e o recebimento de dados s&atilde;o realizados atrav&eacute;s de um tipo de servidor chamado de Broker. Ou seja, nessa comunica&ccedil;&atilde;o haver&aacute; ent&atilde;o um cliente que ter&aacute; o papel de Publisher (Publicador) e transmitir&aacute; a mensagem, com um t&oacute;pico de destino e o seu Payload (o conte&uacute;do da mensagem).</span></span></span></span></p>
 
-<p><img alt="" src="/img/Picture6.png" style="height:100px; width:200px" /></p>
+<p><img alt="" src="/img/Picture7.png" style="height:250px; width:425px" /></p>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 6: Conex&otilde;es entre P</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">ublish e </span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">S</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">ubscriber</span></span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 5: Conex&otilde;es entre P</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">ublish e </span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">S</span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">ubscriber</span></span></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Essa mensagem em quest&atilde;o ser&aacute; ent&atilde;o transmitida ao Broker que, por sua vez, ser&aacute; o respons&aacute;vel por geri-la e encaminh&aacute;-la ao Subscriber que foi previamente inscrito no t&oacute;pico. Dessa forma, os Subscribers recebem apenas as mensagens relacionadas aos t&oacute;picos aos quais se inscreveram, garantindo uma comunica&ccedil;&atilde;o mais eficiente e direcionada.</span></span></span></span></p>
 
@@ -80,8 +80,8 @@
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Com isso, o Protocolo MQTT oferece um mecanismo robusto e eficiente para comunica&ccedil;&atilde;o em cen&aacute;rios de IoT e aplica&ccedil;&otilde;es M2M, possibilitando uma troca de dados &aacute;gil e econ&ocirc;mica em ambientes com recursos limitados.</span></span></span></span></p>
 
-<p><img alt="" src="/img/Picture7.png" style="height:100px; width:200px" /></p
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 7: Publisher &ndash; Broker - </span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Subscriber</span></span></span></span></p>
+<p><img alt="" src="/img/Picture8.png" style="height:200px; width:400px" /></p
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 6: Publisher &ndash; Broker - </span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Subscriber</span></span></span></span></p>
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">De forma simplificada, essa comunica&ccedil;&atilde;o pode ser dividida entre os seguintes termos:</span></span></span></span></p>
 
