@@ -177,7 +177,7 @@
 
 <p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Bibliografia:</span></span></span></span></p>
 
-<ol>
+<ul>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif">Wikipedia:</span></span></span>
 
 	<ul>
@@ -185,7 +185,7 @@
 	</ul>
 	</li>
 	<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif">Amazon Web Services:</span></span></span>
-	<ul style="list-style-type:circle">
+	<ul>
 		<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif">AWS. What is MQTT? [S.l.], [202-?]. Dispon&iacute;vel em: <a href="https://aws.amazon.com/pt/what-is/mqtt/" style="color:blue; text-decoration:underline" target="_new">https://aws.amazon.com/pt/what-is/mqtt/</a>. Acesso em: 6 jul. 2023.</span></span></span></li>
 	</ul>
 	</li>
@@ -215,4 +215,4 @@
 		<li><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif">HOME ASSISTANT. Mosquitto MQTT broker. [S.l.]: GitHub, [202-?]. Dispon&iacute;vel em: <a href="https://github.com/home-assistant/addons/blob/master/mosquitto/README.md" style="color:blue; text-decoration:underline" target="_new">https://github.com/home-assistant/addons/blob/master/mosquitto/README.md</a>. Acesso em: 6 jul. 2023.</span></span></span></li>
 	</ul>
 	</li>
-</ol>
+</ul>
