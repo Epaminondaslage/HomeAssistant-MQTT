@@ -18,9 +18,7 @@
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 1: Message Queuing Telemetry Transport: MQTT</span></span></span></span></p>
 
-<p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">&Eacute; um protocolo de intera&ccedil;&atilde;o <a href="https://acervolima.com/introducao-a-internet-das-coisas-iot-conjunto-1/" style="color:blue; text-decoration:underline" target="_blank"><span style="color:black">IoT</span></a> baseado no modelo Publicar / Assinar. Este modelo &eacute; um modelo simples que fornece suporte para QoS (Quality of Service).</span></span></span></span></p>
-
-<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">Figura 2: Broker based MQTT Protocol</span></span></span></span></p>
+É um protocolo de interação IoT baseado no modelo Publicar / Assinar. Este modelo é um modelo simples que fornece suporte para QoS (Quality of Service).
 
 <p style="text-align:justify"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-family:&quot;Calibri Light&quot;,sans-serif"><span style="color:black">O MQTT possui mecanismos de toler&acirc;ncia a falhas, incluindo:</span></span></span></span></p>
 
